@@ -1,2 +1,2 @@
-# bdd_framework_mindbody
+# bdd_framework
  
